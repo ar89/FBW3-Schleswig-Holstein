@@ -1,0 +1,11 @@
+#firstp 
+{ color: lightblue ;
+    font-size: 19px;
+    font-weight: bold;
+}
+body { 
+   background-color: lightgreen; 
+}
+mark {
+    background: red;
+}
